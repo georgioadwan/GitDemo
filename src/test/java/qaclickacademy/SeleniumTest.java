@@ -18,5 +18,11 @@ public class SeleniumTest {
 		System.out.println("elementsUi");	
 	}
 	
+	@Test
+	public void elementsUid()
+	{
+		System.out.println("elementsUid");	
+	}
+	
 	
 }
