@@ -25,4 +25,11 @@ public class SeleniumTest {
 	}
 	
 	
+	@Test
+	public void elementsUids()
+	{
+		System.out.println("elementsUids");	
+	}
+	
+	
 }
